@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120"><rect width="120" height="120" rx="20" fill="#28170d"/><path d="M60 15 102 39v42l-42 24-42-24V39z" fill="none" stroke="#c79a66" stroke-width="6"/><text x="60" y="68" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#fff">SW</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="220" viewBox="0 0 520 220">
+<rect width="520" height="220" fill="white"/>
+<text x="185" y="95" font-family="Georgia,serif" font-size="72" font-weight="700" fill="#111">SWFL</text>
+<text x="190" y="138" font-family="Arial,sans-serif" font-size="24" letter-spacing="5" font-weight="700" fill="#e86100">COUNTERTOPS LLC</text>
+<path d="M88 150 C95 108,123 79,158 64 C122 67,98 89,80 116 C65 91,42 78,18 77 C45 91,61 112,66 151 Z" fill="#111"/>
+<path d="M70 153 h100 l-12 18 H58 Z" fill="#111"/>
+<path d="M134 52 l38 31 h-18 v44 h-42 V83 H94 Z" fill="none" stroke="#e86100" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="43" cy="61" r="9" fill="#e86100"/>
+</svg>
